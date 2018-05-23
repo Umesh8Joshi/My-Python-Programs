@@ -8,13 +8,13 @@ I will start with problems mentioned by @karan
 ## Numbers
 - [x] Find PI to the Nth digit
 - [ ] Fine e to the Nth digit
-- [ ] Fibonacii Sequence
+- [x] Fibonacii Sequence
 - [ ] Prime Factorization
 - [ ] Next Prime Number
 - [ ] Find Cost of Tile to Cover WxH Floor
 - [ ] Mortage Calculator
 - [ ] Change Return Program
-- [ ] Binary to Decimal and Back Converter
+- [x] Binary to Decimal and Back Converter
 - [ ] Calculator
 - [ ] Unit Converter
 - [ ] Alarm Clock
