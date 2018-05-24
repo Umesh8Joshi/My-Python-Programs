@@ -15,7 +15,7 @@ I will start with problems mentioned by @karan
 - [ ] Mortage Calculator
 - [ ] Change Return Program
 - [x] Binary to Decimal and Back Converter
-- [ ] Calculator
+- [x] Calculator
 - [ ] Unit Converter
 - [ ] Alarm Clock
 - [ ] Distance Between Two cities
