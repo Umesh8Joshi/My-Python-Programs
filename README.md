@@ -29,3 +29,6 @@ I will start with problems mentioned by @karan
 - [ ] Fast Exponentiation
 
 ## Networking through Python 
+
+## Mi
+- [x] Neural Network Trainer
