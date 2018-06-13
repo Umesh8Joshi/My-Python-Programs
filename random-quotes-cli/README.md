@@ -23,3 +23,5 @@ Some sample quotes
   `python quotes.py`
 
 ---
+![code-snippet](https://raw.githubusercontent.com/Umesh8Joshi/My-Python-Programs/master/random-quotes-cli/quote.png)
+---
