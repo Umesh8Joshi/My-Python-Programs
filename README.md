@@ -1,34 +1,25 @@
-# My-Python-Programs
-In this series i will use Python to solve some problems
-<br>
-I will start with problems mentioned by @karan
-<br>
-> Why Python? Because i want to master the language
+# Python Programs
 
-## Numbers
-- [x] Find PI to the Nth digit
-- [ ] Fine e to the Nth digit
-- [x] Fibonacii Sequence
-- [ ] Prime Factorization
-- [ ] Next Prime Number
-- [ ] Find Cost of Tile to Cover WxH Floor
-- [ ] Mortage Calculator
-- [ ] Change Return Program
-- [x] Binary to Decimal and Back Converter
-- [x] Calculator
-- [x] Unit Converter
-- [ ] Alarm Clock
-- [ ] Distance Between Two cities
-- [ ] Credit Card Validator
-- [ ] Factorial Finder
-- [ ] Complex Number Algebra
-- [ ] Happy Numbers
-- [ ] Number Names
-- [ ] Coin Flip Simulation
-- [ ] Limit Calculator
-- [ ] Fast Exponentiation
+---
 
-## Networking through Python 
+These are some python programs coded by me. You can contribute to add some amazing scripts.  
 
-## Mi
-- [x] Neural Network Trainer
+### Projects List
+
+- **Anonymail** - Send Emails Anonymously
+
+- **Auto-complete** - GUI that will complete the text inserted in textbar
+
+- **Blog_Flask** - Blogging Platform by using Flask
+
+- **Random-Quotes** - generate random quotes
+
+- **Text Editor** - Own text editor which can save and edit file
+
+---
+
+### Scripts List
+
+- Simple Neural Network
+- Increase Youtube View
+- Keep Last N items
