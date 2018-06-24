@@ -1,0 +1,72 @@
+.
+├── anonymail
+│   ├── anonymail.py
+│   ├── README.md
+│   └── setup.py
+├── auto-complete-gui
+│   ├── auto1.png
+│   ├── auto2.png
+│   ├── auto-complete.py
+│   └── README.md
+├── Blog_Flask
+│   └── flaskr
+│       ├── auth.py
+│       ├── blog.py
+│       ├── db.py
+│       ├── __init__.py
+│       ├── schema.sql
+│       ├── static
+│       │   └── style.css
+│       └── templates
+│           ├── auth
+│           │   ├── login.html
+│           │   └── register.html
+│           ├── base.html
+│           └── blog
+│               ├── create.html
+│               ├── index.html
+│               └── update.html
+├── cookbook
+│   ├── async_decorator.py
+│   ├── closure.py
+│   ├── context_mgment_protocol.py
+│   ├── custom_str_format.py
+│   ├── echo_server.py
+│   ├── inlined_async.py
+│   ├── keep_last_N_items.py
+│   ├── #priority_queue.py#
+│   ├── priority_queue.py
+│   ├── __pycache__
+│   │   └── priority_queue.cpython-36.pyc
+│   ├── rmv_dup_maintain_order.py
+│   ├── sort_obj_native_comparison.py
+│   ├── TEST
+│   └── type_system.py
+├── LICENSE
+├── misc
+│   ├── Android Server
+│   ├── Calc.py
+│   ├── calulator.py
+│   ├── get_youtube_view.py
+│   └── neural.py
+├── numbers
+│   ├── bin2decViceVersa.py
+│   ├── fibonacci.py
+│   └── PItoNth.py
+├── random-quotes-cli
+│   ├── quote.png
+│   ├── quotes.py
+│   ├── quotes.txt
+│   └── README.md
+├── README.md
+├── text-editor
+│   ├── editor.py
+│   └── README.md
+├── to-do-list-cli
+│   ├── README.md
+│   ├── to_do_list.db
+│   ├── to-do.png
+│   └── to-do.py
+└── tree.txt
+
+15 directories, 54 files
